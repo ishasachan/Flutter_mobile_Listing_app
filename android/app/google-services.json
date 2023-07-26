@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "276083202125",
+    "project_id": "flutter-message-task",
+    "storage_bucket": "flutter-message-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276083202125:android:a133ff44049c5fcc1fe404",
+        "android_client_info": {
+          "package_name": "com.flutter.fcm.fcmflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276083202125-0di9lcjja6v608kjv8kcciu7ebf31po2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAONDyEE2aGJAodIwx7ZV5BNhXeNJl5ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276083202125-0di9lcjja6v608kjv8kcciu7ebf31po2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276083202125-6vsfsbevl2dhruh84295822q5fh61bs2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.abhi6722.flutterinternshiptaskapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276083202125:android:9285d82c1054c9111fe404",
+        "android_client_info": {
+          "package_name": "in.abhi6722.flutterinternshipapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276083202125-0di9lcjja6v608kjv8kcciu7ebf31po2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAONDyEE2aGJAodIwx7ZV5BNhXeNJl5ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276083202125-0di9lcjja6v608kjv8kcciu7ebf31po2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276083202125-6vsfsbevl2dhruh84295822q5fh61bs2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.abhi6722.flutterinternshiptaskapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
